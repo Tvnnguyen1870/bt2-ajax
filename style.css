@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 600px;
+    border-radius: 4px;
+}
+
+.heading {
+    padding: 24px 0;
+    text-align: center;
+    font-size: 60px;
+}
+
+.content-meal .meal-img {
+    width: 150px;
+    float: left;
+    padding-left: 40px;
+}
+
+.content-meal .heading-meal {
+    display: inline-block;
+    padding-left: 32px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.card {
+    width: 100%;
+    height: 170px;
+    margin-top: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
